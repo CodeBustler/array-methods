@@ -1,0 +1,22 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	padding: 15px;
+	width: 100%;
+	font-family: "Montserrat", sans-serif;
+}
+
+#title {
+	font-size: 22px;
+	padding-bottom: 10px;
+}
+
+.container {
+	margin: auto;
+}
+
+/* HTML Tutorial | HTML  */
